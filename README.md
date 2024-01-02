@@ -1,7 +1,7 @@
  <div align="center"> 
 
   
-####  :wave: Welcome my github profile !
+###  :wave: Welcome my github profile !
 
   
  <br/>
@@ -29,7 +29,6 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@gyfla1512/posts)
 </div>
 
-### Hi there 👋
 
 <!--
 **jeonhyolim/jeonhyolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
