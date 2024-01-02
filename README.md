@@ -5,7 +5,8 @@
 
   
 ###  :wave: Welcome my github profile !
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonhyolim&show_icons=true&theme=radical)
+==
   
  <br/>
  <br/>
