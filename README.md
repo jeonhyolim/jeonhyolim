@@ -30,7 +30,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonhyolim&layout=compact)](https://github.com/jeonhyolim/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeonhyolim&color=dark)](https://velog.io/@gyfla1512/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=fla1512&color=dark)](https://velog.io/@gyfla1512/posts)
 </div>
 
 
